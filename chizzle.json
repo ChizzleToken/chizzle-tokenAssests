@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "4GuAgdqeKbMptAFwyWye7Y4REGQkTohWeNEBeYAvASL5",
+  "symbol": "CHIZZLE",
+  "name": "CHIZZLE",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/ChizzleToken/chizzle-tokenAssests/main/assets/mainnet/4GuAgdqeKbMptAFwyWye7Y4REGQkTohWeNEBeYAvASL5/logo.png",
+  "tags": ["meme", "community"]
+}
